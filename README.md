@@ -57,11 +57,11 @@ a:hover{
 
 <a href="https://www.google.com/maps/place/%22Botir%22+Ooo/@40.9706059,70.043543,17z/data=!4m6!3m5!1s0x38afc3006f2209f5:0x211e7fd2aa1b9765!8m2!3d40.9699991!4d70.0447112!16s%2Fg%2F11xwbh9xdw?entry=ttu&g_ep=EgoyMDI2MDcyMS4wIKXMDSoASAFQAw%3D%3D">Google Maps</a>
 
-<a href="#">WeChat number:+</a>
+<a href="#">WeChat number:+998901293711</a>
 
 <a href="mailto:aizsp@mail.ru">Email</a>
 
- <a href="#">Whats App Number:+</a>   
+ <a href="#">Whats App Number:+998901293711</a>   
     
 <a href="tel:+998900021133">+998901293711</a>
 
